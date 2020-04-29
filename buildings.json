@@ -1,6 +1,5 @@
 {"buildings":
 [
-{"id":"1","name":"NONE","shortcode":"NONE","imagepath":""},
 {"id":"2","name":"Aquia Building","shortcode":"AQ","imagepath":".."},
 {"id":"3","name":"Art and Design Building","shortcode":"AB","imagepath":""},
 {"id":"4","name":"Blue Ridge Hall","shortcode":"BL","imagepath":""},
