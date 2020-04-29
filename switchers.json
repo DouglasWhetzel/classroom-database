@@ -1,0 +1,14 @@
+{"switchers":
+[
+{"id":"1","brand":"NONE","model":"NONE","usermanual":"","image":""},
+{"id":"2","brand":"Crestron","model":"DMPS3-4k-250-C","usermanual":"","image":""},
+{"id":"3","brand":"Crestron","model":"DMPS3-4k-350-C","usermanual":"","image":""},
+{"id":"4","brand":"Crestron","model":"DMPS-300-C","usermanual":"","image":""},
+{"id":"5","brand":"Crestron","model":"MPC-M5","usermanual":"","image":"mpc-m5.jpg"},
+{"id":"6","brand":"Crestron","model":"DMPS3-200-C","usermanual":"","image":""},
+{"id":"7","brand":"Crestron","model":"DMPS3-300-C","usermanual":"","image":""},
+{"id":"8","brand":"Crestron","model":"DMPS3-4k-200-C","usermanual":"","image":""},
+{"id":"9","brand":"Crestron","model":"DMPS3-4k-300-C","usermanual":"","image":""},
+{"id":"10","brand":"Crestron","model":"DM-MD8x8","usermanual":"","image":""}
+],"Status":"OK"
+}
