@@ -1,0 +1,10 @@
+{"touchpanels":
+[
+{"id":"1","brand":"NONE","model":"NONE","usermanual":"","image":""},
+{"id":"2","brand":"Crestron","model":"TSW-560-B-S","usermanual":"mg_qs_tsw-560_tsw-760_tsw-1060.pdf","image":"TSW-560-B.jpeg"},
+{"id":"6","brand":"Crestron","model":"TSW-1060-B-S","usermanual":"","image":""},
+{"id":"3","brand":"Crestron","model":"TPMC-4SM","usermanual":"","image":""},
+{"id":"4","brand":"Crestron","model":"TSW-552-B-S","usermanual":"","image":""},
+{"id":"5","brand":"Crestron","model":"TSW-1052-B-S","usermanual":"","image":""}
+],"Status":"OK"
+}
