@@ -1,0 +1,15 @@
+{"projectors":
+[
+{"id":"1","brand":"NONE","model":"NONE","lamptype":"NONE","filtertype":"NONE","usermanual":"","image":""},
+{"id":"2","brand":"Epson","model":"PowerLite 1940W","lamptype":"ELPLP75","filtertype":"V13H134A41","usermanual":"pl1940ug.pdf","image":"1940w_fra-our_690x460.jpg"},
+{"id":"3","brand":"Epson","model":"PowerLite Pro G6550WU","lamptype":"ELPLP76","filtertype":"ELPAF43","usermanual":"cpd38863.pdf","image":"g6570wu_fcs-our_690x460.jpg"},
+{"id":"4","brand":"Epson","model":"PowerLite 2165W","lamptype":"ELPLP95","filtertype":"V13H134A41","usermanual":"cpd52412.pdf","image":"EB-2165W_01.jpg"},
+{"id":"5","brand":"Epson","model":"PowerLite Pro G5650W","lamptype":"ELPLP63","filtertype":"V13H134A17","usermanual":"plpg56ug.pdf","image":"powerlite-1925w_300x200.jpg"},
+{"id":"6","brand":"Epson","model":"PowerLite 1925W","lamptype":"ELPLP53","filtertype":"V13H134A24","usermanual":"pl1830ug.pdf","image":"powerlite-1925w_300x200.jpg"},
+{"id":"7","brand":"Epson","model":"PowerLite Pro G5750WU","lamptype":"ELPLP63","filtertype":"V13H134A17","usermanual":"plpg56ug.pdf","image":"g5750wu_fcs-our_690x460.jpg"},
+{"id":"8","brand":"Epson","model":"PowerLite L510U","lamptype":"None","filtertype":"None","usermanual":"","image":""},
+{"id":"9","brand":"Epson","model":"PowerLite Pro G6770WU","lamptype":"None","filtertype":"None","usermanual":"","image":""},
+{"id":"10","brand":"Epson","model":"BrightLink 695Wi","lamptype":"None","filtertype":"None","usermanual":"plpg56ug.pdf","image":"powerlite-1925w_300x200.jpg"},
+{"id":"11","brand":"Epson","model":"PowerLite Pro G7500U","lamptype":"None","filtertype":"None","usermanual":"","image":""}
+],"Status":"OK"
+}
